@@ -1,0 +1,57 @@
+# section information
+section:
+  name: A propos
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Analyste d'études et de développement confirmé
+# your company information
+# company:
+#   name: Apside
+#   url: "https://apside.com/"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Je suis un ingénieur logiciel passionné avec 5 ans d''expérience professionnelle. J''ai créé un outil de gestion de cave à vin en utilisant C# .NET et Angular. Mon outil à pour but d''aider les propriétaires de caves à vin (naturelles ou électroniques) à gérer leur stock ainsi que la conservation des vins de garde. Parfois, je travaille à la conteneurisation d''applications qui ne disposent pas d''image docker ou OCI.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/jcreach"
+- name: Gitlab
+  icon: "fab fa-gitlab"
+  url: "https://www.gitlab.com/jcreach"
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/12343353/valdayygg?tab=profile"
+- name: Email
+  icon: "fas fa-envelope"
+  url: "julien.creach@protonmail.com"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/juliencreach/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Travail en équipe
+  percentage: 90
+  color: yellow
+- name: Faculté d'adaptation
+  percentage: 85
+  color: blue
+- name: Parler en public
+  percentage: 60
+  color: orange
+- name: Curiosité
+  perccentage: 90
+  color: green

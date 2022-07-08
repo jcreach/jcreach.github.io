@@ -1,0 +1,57 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Design and development engineer
+# your company information
+# company:
+#   name: Apside
+#   url: "https://apside.com/"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate software engineer with 5 years of working experience. I created a wine cellar management tool using C# .NET and Angular. My tool should help wine cellar owners (natural or electronic) to manage their stock as well as the conservation of ageing wines. Sometimes I work on containerising applications that do not have a docker or OCI image.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/jcreach"
+- name: Gitlab
+  icon: "fab fa-gitlab"
+  url: "https://www.gitlab.com/jcreach"
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/12343353/valdayygg?tab=profile"
+- name: Email
+  icon: "fas fa-envelope"
+  url: "julien.creach@protonmail.com"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/juliencreach/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Adaptability
+  percentage: 85
+  color: blue
+- name: Public speaking
+  percentage: 60
+  color: orange
+- name: Curiosity
+  perccentage: 90
+  color: green
