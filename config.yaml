@@ -1,3 +1,20 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Julien Creach's blog
+
+theme: "toha"
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  fr:
+    languageName: French
+    weight: 2
+
+enableEmoji: true
+
+params:
+  enableBlogPost: true
+  newsletter:
+    enable: false
