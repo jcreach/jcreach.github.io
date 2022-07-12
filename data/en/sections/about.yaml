@@ -46,12 +46,12 @@ softSkills:
 - name: Team Work
   percentage: 90
   color: yellow
+- name: Curiosity
+  perccentage: 90
+  color: green
 - name: Adaptability
   percentage: 85
   color: blue
-- name: toto
-  perccentage: 90
-  color: green
 - name: Public speaking
   percentage: 60
   color: orange

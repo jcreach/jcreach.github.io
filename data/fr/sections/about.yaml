@@ -46,12 +46,12 @@ softSkills:
 - name: Travail en équipe
   percentage: 90
   color: yellow
+- name: Curiosité
+  perccentage: 90
+  color: green
 - name: Faculté d'adaptation
   percentage: 85
   color: blue
 - name: Parler en public
   percentage: 60
   color: orange
-- name: Curiosité
-  perccentage: 90
-  color: green
