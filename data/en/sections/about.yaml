@@ -39,19 +39,20 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/juliencreach/"
 
-# your soft skills
-# give the percentage between 50 to 100 with 5 intervals.
-# currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: Team Work
+badges:
+- type: soft-skill-indicator
+  name: Team Work
   percentage: 90
   color: yellow
-- name: Curiosity
-  perccentage: 90
-  color: green
-- name: Adaptability
+- type: soft-skill-indicator
+  name: Adaptability
   percentage: 85
   color: blue
-- name: Public speaking
+- type: soft-skill-indicator
+  name: Public speaking
   percentage: 60
   color: orange
+- type: soft-skill-indicator
+  name: Curiosity
+  perccentage: 90
+  color: green
