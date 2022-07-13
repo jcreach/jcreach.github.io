@@ -1,0 +1,22 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Développement C#
+  logo: images/skills/logo_csharp.png
+  summary: "Utilisation comme langage principal pour le développement personnel et professionnel. Capable d'écrire un programme évolutif, testable et maintenable. Capable d'écrire des applications de bureau et web."
+  url: "https://en.wikibooks.org/wiki/C_Sharp_Programming"
+
+- name: Docker
+  logo: images/skills/logo_docker.webp
+  summary: "Réalisation de la plupart des programmes en tant que conteneur dockerisé. Expérimenté avec le multi-stage. Expérimenté avec le moteur docker Windows et Linux."
+  url: "https://www.docker.com/"
