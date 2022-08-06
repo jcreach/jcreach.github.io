@@ -6,7 +6,7 @@ greeting: "Bonjour, je suis"
 image: "images/author/avatar.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "julien.creach@protonmail.com"
+  email: "julien.creach@pm.me"
 
 # some summary about what you do
 summary:
