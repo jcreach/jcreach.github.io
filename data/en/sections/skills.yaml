@@ -20,3 +20,23 @@ skills:
   logo: images/skills/logo_docker.webp
   summary: "Write most of the programs as dockerized container. Experienced with multi-stage. Experienced with both Windows and Linux docker engine."
   url: "https://www.docker.com/"
+
+- name: AngularJS
+  logo: images/skills/logo_angularjs.png
+  summary: "Use as a primary language for frontend development for several years (in a professional context) on a vehicle sales tool."
+  url: "https://angularjs.org/"
+
+- name: Angular
+  logo: images/skills/logo_angular.png
+  summary: "Use as a primary language for front-end development for several years. In a professional context on a car sales tool migrated from AngularJS to Angular. But also in personal projects."
+  url: "https://angular.io/"
+
+- name: Oracle Database
+  logo: images/skills/logo_oracle.png
+  summary: "Use (in a professional context) on the development of a vehicle sales tool."
+  url: "https://www.oracle.com/fr/database/"
+
+- name: PostgreSQL
+  logo: images/skills/logo_postgresql.png
+  summary: "Use on personal projects."
+  url: "https://www.postgresql.org/"
