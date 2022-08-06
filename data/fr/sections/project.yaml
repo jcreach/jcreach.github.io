@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Projets
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: Tous
+  filter: "tous"
+- name: Professionel
+  filter: "professionel"
+- name: Académique
+  filter: "académique"
+- name: Personnel
+  filter: "personnel"
+
+
+# your projects
+projects:
+- name: Redis docker windows
+  logo: /images/projects/logo_redis.png
+  role: Propriétaire
+  timeline: "Jan 2022 - Présent"
+  repo: https://github.com/jcreach/redis-docker-windows
+  summary: "Implémentation rapide de redis pour docker windows"
+  tags: ["personnel", "professionnel", "redis", "docker", "docker-windows"]  
+
+- name: Hugo docker windows
+  logo: /images/projects/logo_hugo.png
+  role: Propriétaire
+  timeline: "Fev 2022 - Présent"
+  repo: https://github.com/jcreach/hugo-framework-docker
+  summary: "Implémentation rapide de redis pour docker windows Hugo pour docker windows"
+  tags: ["personnel", "professionnel", "hugo", "docker", "docker-windows"]  

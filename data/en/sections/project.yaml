@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Personal
+  filter: "personal"
+
+
+# your projects
+projects:
+- name: Redis docker windows
+  logo: /images/projects/logo_redis.png
+  role: Owner
+  timeline: "Jan 2022 - Present"
+  repo: https://github.com/jcreach/redis-docker-windows
+  summary: "Quick implementation of redis for docker windows"
+  tags: ["personal", "professional", "redis", "docker", "docker-windows"]  
+
+- name: Hugo docker windows
+  logo: /images/projects/logo_hugo.png
+  role: Owner
+  timeline: "Feb 2022 - Present"
+  repo: https://github.com/jcreach/hugo-framework-docker
+  summary: "Quick implementation of Hugo for docker windows"
+  tags: ["personal", "professional", "hugo", "docker", "docker-windows"]  
