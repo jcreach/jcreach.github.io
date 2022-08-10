@@ -1,0 +1,88 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Apside
+    url: "https://apside.com"
+    location: Rennes
+    overview: Apside is a digital services company with around 3,000 employees operating in France and internationally.
+  positions:
+  - designation: Research and Development Analyst
+    start: November 2021
+    responsibilities:
+    - TODO
+  - designation: Research and Development Engineer
+    start: October 2019
+    end: November 2021
+    responsibilities:
+    - TODO
+
+- company:
+    name: Secmotic
+    url: "https://secmotic.com/"
+    location: Sevilla
+    overview: Secmotic is a company focused on the Internet of Things and Artificial Intelligence.
+  positions:
+  - designation: Intern in embedded systems programming
+    start: July 2017
+    end: September 2017
+    responsibilities:
+    - TODO
+
+- company:
+    name: Directorate General of Armaments (DGA)
+    url: "https://www.defense.gouv.fr/dga"
+    location: Bruz
+    overview: As a centre of expertise, testing and engineering within the Ministry of the Armed Forces, the Direction générale de l'armement (DGA) is responsible for equipping armies in a sovereign manner, preparing the future of defence systems, promoting European cooperation and supporting exports.
+  positions:
+  - designation: Engineering apprentice
+    start: October 2016
+    end: September 2019
+    responsibilities:
+      - Specification, design and development of a tool for remote control of distributed simulation platforms
+      - Specification and design of a DIS frame sniffer/player
+      - Management of the development team for the DIS frame sniffer/player
+      - Development of functionalities on a distributed simulation tool
+      - Unit testing (MSTest)
+      - Command pattern
+      - Model View Controller (MVC)
+      - Model, View, View-Model (MVVM)
+      - .Net framework 4.0, WPF, MSTest, DIS, GIT, RTSP
+
+- company:
+    name: Groupe Rocher
+    url: "https://groupe-rocher.com/"
+    location: La Gacilly
+    overview: Creator of plant-based cosmetics & No. 1 in cosmetics in France.
+  positions:
+  - designation: Maintenance technician
+    start: September 2015
+    end: September 2016
+    responsibilities:
+    - TODO
+
+- company:
+    name: bioMerieux
+    url: "https://www.biomerieux.fr/"
+    location: Bruz
+    overview: BioMérieux is a French company specialising in in vitro diagnostics.
+  positions:
+  - designation: R&D Instrument Technician
+    start: June 2015
+    end: September 2015
+    responsibilities:
+    - TODO
+  - designation: R&D Intern
+    start: April 2015
+    end: June 2015
+    responsibilities:
+    - TODO

@@ -1,0 +1,88 @@
+# section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Apside
+    url: "https://apside.com"
+    location: Rennes
+    overview: Apside est une entreprise de services numériques d'environ 3 000 salariés, présente en France et à l'international.
+  positions:
+  - designation: Analyste études et développements confirmé
+    start: Novembre 2021
+    responsibilities:
+    - TODO
+  - designation: Ingénieur d'étude et de développement
+    start: Octobre 2019
+    end: Novembre 2021
+    responsibilities:
+    - TODO
+
+- company:
+    name: Secmotic
+    url: "https://secmotic.com/"
+    location: Séville
+    overview: Secmotic est une entreprise axée sur l'internet des objets et l'intelligence artificielle.
+  positions:
+  - designation: Stagiaire en programmation de systèmes embarqués
+    start: Juillet 2017
+    end: Septembre 2017
+    responsibilities:
+    - TODO
+
+- company:
+    name: Direction générale de l'armement (DGA)
+    url: "https://www.defense.gouv.fr/dga"
+    location: Bruz
+    overview: Centre d'expertise, d'essais et d'ingénierie au sein du ministère des Armées, la Direction générale de l'armement (DGA) est chargée d'équiper les armées de manière souveraine, de préparer l'avenir des systèmes de défense, de promouvoir la coopération européenne et de soutenir les exportations.
+  positions:
+  - designation: Apprenti ingénieur
+    start: Octobre 2016
+    end: Septembre 2019
+    responsibilities:
+      - Spécification, conception et développement d'un outil pour le contrôle à distance de plateformes de simulation distribuées
+      - Spécification et conception d'un sniffer/player de trames DIS 
+      - Gestion de l'équipe de développement du sniffer/player de trames DIS
+      - Développement de fonctionnalités sur un outil de simulation distribué
+      - Tests unitaires (MSTest)
+      - Pattern "commande"
+      - Modèle Vue Contrôleur (MVC)
+      - Modèle, vue, vue-modèle (MVVM)
+      - .Net framework 4.0, WPF, MSTest, DIS, GIT, RTSP
+
+- company:
+    name: Groupe Rocher
+    url: "https://groupe-rocher.com/"
+    location: La Gacilly
+    overview: Créateur de la Cosmétique végétale & n°1 de la cosmétique en France.
+  positions:
+  - designation: Maintenance technician
+    start: September 2015
+    end: September 2016
+    responsibilities:
+    - TODO
+
+- company:
+    name: bioMerieux
+    url: "https://www.biomerieux.fr/"
+    location: Bruz
+    overview: BioMérieux est une société française spécialisée dans le diagnostic in vitro.
+  positions:
+  - designation: R&D Instrument Technician
+    start: June 2015
+    end: September 2015
+    responsibilities:
+    - TODO
+  - designation: R&D Intern
+    start: April 2015
+    end: June 2015
+    responsibilities:
+    - TODO
