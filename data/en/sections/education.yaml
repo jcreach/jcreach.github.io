@@ -1,0 +1,39 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Engineer, specialising in industrial IT
+  icon: fa-graduation-cap
+  timeframe: 2016-2019
+  institution:
+    name: ESEO
+    url: "https://eseo.fr/"
+    
+- name:  Bachelor’s degree in mechatronics
+  icon: fa-university
+  timeframe: 2015-2016
+  institution:
+    name: Université de Rennes 1 (IUT)
+    url: "https://iut-rennes.univ-rennes1.fr/"
+
+- name: Two-year university degree in technology, electrical engineering and industrial IT
+  icon: fa-university
+  timeframe: 2013-2015
+  institution:
+    name: Université de Rennes 1 (IUT)
+    url: "https://iut-rennes.univ-rennes1.fr/"
+
+- name: A-Levels, scientific section
+  icon: fa-school
+  timeframe: 2009-2013
+  institution:
+    name: Lycée La Fontaine des Eaux
+    url: "https://www.lycees-dinan.fr/"
