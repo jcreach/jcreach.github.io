@@ -15,6 +15,7 @@ languages:
 enableEmoji: true
 
 params:
+  background: "images/background.jpg"
   enableBlogPost: true
   newsletter:
     enable: false
