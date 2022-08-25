@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Julien Creach's blog
+title: Julien Creach
 
 theme: "toha"
 
@@ -23,3 +23,4 @@ params:
     enable: true
     provider: darkreader
     default: system
+    
