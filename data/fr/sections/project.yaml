@@ -35,5 +35,5 @@ projects:
   role: Propriétaire
   timeline: "Fev 2022 - Présent"
   repo: https://github.com/jcreach/hugo-framework-docker
-  summary: "Implémentation rapide de redis pour docker windows Hugo pour docker windows"
+  summary: "Implémentation rapide d'Hugo pour docker windows"
   tags: ["personnel", "professionnel", "hugo", "docker", "docker-windows"]  
