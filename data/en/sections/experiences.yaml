@@ -28,6 +28,7 @@ experiences:
     - Load tests (Visual studio load test, k6)
     - Unit test (NUnit)
     - Cypress tests
+    - Nearshore Development
     - Oracle database, PLSQL, APM, Elasticsearch, Kibana, SonarQube, Postman
   - designation: Research and Development Engineer
     start: October 2019
