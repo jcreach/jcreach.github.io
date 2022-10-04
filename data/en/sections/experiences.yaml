@@ -29,12 +29,21 @@ experiences:
     - Unit test (NUnit)
     - Cypress tests
     - Nearshore Development
+    - Technical interviews
+    - Team support
     - Oracle database, PLSQL, APM, Elasticsearch, Kibana, SonarQube, Postman
   - designation: Research and Development Engineer
     start: October 2019
     end: November 2021
     responsibilities:
-    - TODO
+    - Setting up and maintaining a CI/CD platform (jenkins, Docker Windows and linux, TFS and Git, Harbor)
+    - Angular / AngularJs development
+    - Backend devlopment (C#, .Net Framerwork, .Net, REST, SOAP, WCF)
+    - Unit test (NUnit)
+    - Cypress tests
+    - Protractor tests
+    - Oracle database, PLSQL, APM, Elasticsearch, Kibana, SonarQube, Postman
+
 
 - company:
     name: Secmotic
