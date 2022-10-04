@@ -19,7 +19,16 @@ experiences:
   - designation: Research and Development Analyst
     start: November 2021
     responsibilities:
-    - TODO
+    - AngularJS to Angular 14 migration
+    - TFS to Git migration
+    - Setting up and maintaining a CI/CD platform (jenkins, Docker Windows and linux, TFS and Git, Harbor)
+    - Gitlab CI pipelines development
+    - Angular / AngularJs development
+    - Backend devlopment (C#, .Net Framerwork, .Net, REST, SOAP, WCF)
+    - Load tests (Visual studio load test, k6)
+    - Unit test (NUnit)
+    - Cypress tests
+    - Oracle database, PLSQL, APM, Elasticsearch, Kibana, SonarQube, Postman
   - designation: Research and Development Engineer
     start: October 2019
     end: November 2021
