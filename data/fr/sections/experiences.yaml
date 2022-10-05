@@ -38,7 +38,7 @@ experiences:
     responsibilities:
     - Mise en place et maintenance d'une plateforme CI/CD (jenkins, Docker Windows et linux, TFS et Git, Harbor)
     - Développement Angular / AngularJs
-    - Développement Backend (C#, .Net Framerwork, .Net, REST, SOAP, WCF)
+    - Développement Backend (C#, .Net Framerwork, .Net, REST, SOAP, WCF, Nuget)
     - Tests unitaires (NUnit)
     - Tests Cypress
     - Tests Protractor
