@@ -19,12 +19,30 @@ experiences:
   - designation: Analyste études et développements confirmé
     start: Novembre 2021
     responsibilities:
-    - TODO
+    - Migration d'AngularJS vers Angular 14
+    - Migration de TFS vers Git
+    - Mise en place et maintenance d'une plateforme CI/CD (jenkins, Docker Windows et linux, TFS et Git, Harbor)
+    - Développement de pipelines CI Gitlab
+    - Développement Angular / AngularJs
+    - Développement backend (C#, .Net Framerwork, .Net, REST, SOAP, WCF)
+    - Tests de charge (Visual studio load test, k6)
+    - Tests unitaires (NUnit)
+    - Tests Cypress
+    - Développement Nearshore
+    - Entretiens techniques
+    - Soutien à l'équipe
+    - Base de données Oracle, PLSQL, APM, Elasticsearch, Kibana, SonarQube, Postman
   - designation: Ingénieur d'étude et de développement
     start: Octobre 2019
     end: Novembre 2021
     responsibilities:
-    - TODO
+    - Mise en place et maintenance d'une plateforme CI/CD (jenkins, Docker Windows et linux, TFS et Git, Harbor)
+    - Développement Angular / AngularJs
+    - Développement Backend (C#, .Net Framerwork, .Net, REST, SOAP, WCF)
+    - Tests unitaires (NUnit)
+    - Tests Cypress
+    - Tests Protractor
+    - Base de données Oracle, PLSQL, APM, Elasticsearch, Kibana, SonarQube, Postman
 
 - company:
     name: Secmotic
