@@ -36,7 +36,12 @@ experiences:
     start: Juillet 2017
     end: Septembre 2017
     responsibilities:
-    - TODO
+    - Electronique embarqué
+    - Programation en C d'un "wearable"
+    - Intégration de capteurs (luminosité, chocs)  
+    - Intégration de la mémoire embarquée
+    - Conception du cycle de vie de la communication (bluetooth) avec l'application smartphone du produit (Android/iOS)
+    - Travail en équipe pluridisciplinaire
 
 - company:
     name: Direction générale de l'armement (DGA)
@@ -56,6 +61,7 @@ experiences:
       - Pattern "commande"
       - Modèle Vue Contrôleur (MVC)
       - Modèle, vue, vue-modèle (MVVM)
+      - Travail en équipe
       - .Net framework 4.0, WPF, MSTest, DIS, GIT, RTSP
 
 - company:
@@ -68,7 +74,12 @@ experiences:
     start: September 2015
     end: September 2016
     responsibilities:
-    - TODO
+    - Retrofit etiqueteuse de flacon industrielle
+    - Spécification, conception, sourcing de matériel
+    - Maintenance industrielle
+    - Automatisme (automate Siemens)
+    - Robotique industrielle (fanuc)
+    - Mécanique industrielle
 
 - company:
     name: bioMerieux
@@ -80,9 +91,15 @@ experiences:
     start: June 2015
     end: September 2015
     responsibilities:
-    - TODO
+    - Sourcing de composant électronique
+    - Capitalisation documentaire pour la mise en conformité 
+    - Mise en place d'un plan d'action pour la mise en conformiité de produits 
+    - Travail en autonomie et en équipe
   - designation: R&D Intern
     start: April 2015
     end: June 2015
     responsibilities:
-    - TODO
+    - ROHS2
+    - Electronnique embarqué
+    - Recherche, conception et test d'évolution de composants sur matériel déjà existant
+    - Travail en autonomie et en équipe
