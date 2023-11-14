@@ -1,0 +1,42 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Développement C#
+  logo: images/skills/logo_csharp.png
+  summary: "Utilisation comme langage principal pour le développement personnel et professionnel. Capable d'écrire un programme évolutif, testable et maintenable. Capable d'écrire des applications de bureau et web."
+  url: "https://en.wikibooks.org/wiki/C_Sharp_Programming"
+
+- name: Docker
+  logo: images/skills/logo_docker.webp
+  summary: "Réalisation de la plupart des programmes en tant que conteneur dockerisé. Expérimenté avec le multi-stage. Expérimenté avec le moteur docker Windows et Linux."
+  url: "https://www.docker.com/"
+
+- name: AngularJS
+  logo: images/skills/logo_angularjs.png
+  summary: "Utilisation comme langage principal pour le développement front-end pendant plusieurs années (dans un contexte professionnel) sur un outil de vente de véhicules."
+  url: "https://angularjs.org/"
+
+- name: Angular
+  logo: images/skills/logo_angular.png
+  summary: "Utilisation comme langage principal pour le développement front-end depuis plusieurs années. Dans un contexte professionnel sur un outil de vente de voitures migré d'AngularJS à Angular. Mais aussi dans des projets personnels."
+  url: "https://angular.io/"
+
+- name: Oracle Database
+  logo: images/skills/logo_oracle.png
+  summary: "Utilisation (dans un contexte professionnel) sur le développement d'un outil de vente de véhicules."
+  url: "https://www.oracle.com/fr/database/"
+
+- name: PostgreSQL
+  logo: images/skills/logo_postgresql.png
+  summary: "Utilisation sur des projets personnels."
+  url: "https://www.postgresql.org/"
